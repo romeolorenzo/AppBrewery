@@ -1,5 +1,5 @@
 ## iOS & Swift - The Complete iOS App Development Bootcamp
-**Angela Yu's App Brewery course on Udemy**
+**Angela Yu's [App Brewery](https://www.appbrewery.co/) course on Udemy**
 
 I have been meaning to get back into iOS development for quite some time now.  Haven't touched iOS/Swift for a number of years now, since back when I was hosting The Swiftjitsu Podcast (https://soundcloud.com/swiftjitsu) where I was interviewing iOS app developers in 2015.  I should download these audio clips.  I don't have them stored anywhere anymore.  Anyway, today, I'm more python developer for the day-to-day tasks at my current job.  
 
