@@ -7,7 +7,7 @@ I bought Angela Yu's iOS & Swift - The complete iOS App Development Bootcamp bac
 
 Here we are today, March 2023, I finally dusted off my iOS developer account and started working on the course.  This repo are the things I have been working on in the course.  I am still busier than ever but determined to complete the course by chipping away a few hours a day until it's done.   
 
-A lot of what is covered in this course will be review and a lot will be new.  I am going to fast forward for the parts that are already familiar to me and slow down where needed.   Below are the sections of the course:
+There will be some that is covered in the course will be review, since I have been coding for a number of years in Python and my initial Swift exporation from way back when, and **a lot** that will be new to me.  I am going to fast forward for the parts that are already familiar to me and slow down where needed.   Below are the sections of the course:
 
 - Coure Content
     - Section 1: Getting Started with iOS Development and Swift 5
@@ -48,7 +48,7 @@ A lot of what is covered in this course will be review and a lot will be new.  I
     - Section 36: Optional Module: How to Make an App from Beginning to End 
    
 
-Git, GitHub and Version Control
-    - Section 9: 
+If you are interested in going through the course as well, here is the link.
+https://www.udemy.com/course/ios-13-app-development-bootcamp/
 
 
