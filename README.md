@@ -3,5 +3,5 @@ I have been meaning to get back into iOS development for quite some time now.  H
 
 I bought Angela Yu's iOS & Swift - The complete iOS App Development Bootcamp back in Nov 8, 2022 on Udemy but never started the course.  She's also the founder of The App Brewery (appbrewery.com).
 
-Today, March 2023, I finally dusted off my iOS developer account and started working on the course.  This repo is are the things I worked on in the course.
+Today, March 2023, I finally dusted off my iOS developer account and started working on the course.  This repo are the things I have been  working on in the course.
 
