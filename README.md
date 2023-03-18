@@ -49,6 +49,7 @@ There will be some that is covered in the course will be review, since I have be
    
 
 If you are interested in going through the course as well, here is the link.
+
 https://www.udemy.com/course/ios-13-app-development-bootcamp/
 
 
